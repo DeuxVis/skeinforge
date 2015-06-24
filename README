@@ -1,16 +1,3 @@
 Going to integrate a few patches and fixes for skeinforge that are laying around the internet.
 
-I am working on branch 'release' (skeinforge 50) for now.
-
-------------------------
-Original makerbot README
-------------------------
-
-Enrique Perez's Skeinforge, stashed in git.
-http://fabmetheus.crsndoo.com/
-
-For simplicity each version of Skeinforge is kept in its own branch, e.g.
-sf-47, sf-50.
-
-Patches to use Skeinforge with ReplicatorG are also kept in separate branches,
-e.g. sf-47-RepG, sf-50-RepG.
+Will be working directly on branch 'master', based on official last version (skeinforge 50) for now.
